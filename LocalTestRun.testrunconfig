@@ -1,10 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <TestRunConfiguration name="LocalTestRun" id="1e628024-8e57-4988-911c-cac544978689" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
   <Description>This is a default test run configuration for a local test run.</Description>
-  <CodeCoverage enabled="true">
-    <Regular>
-      <CodeCoverageItem binaryFile="HelloWorldTests\bin\Debug\HelloWorldTests.dll" pdbFile="HelloWorldTests\bin\Debug\HelloWorldTests.pdb" instrumentInPlace="true" />
-    </Regular>
-  </CodeCoverage>
   <TestTypeSpecific />
 </TestRunConfiguration>
