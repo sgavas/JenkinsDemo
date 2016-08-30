@@ -17,5 +17,10 @@ namespace HelloWorld
             return "Hello World";
         }
 
+        public static string CreateWelcomeMessage()
+        {
+            return "Welcome to Xyz";
+        }
+
     }
 }
