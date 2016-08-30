@@ -22,5 +22,10 @@ namespace HelloWorld
             return "Welcome to Xyz";
         }
 
+        public static string CreateFakeMessage()
+        {
+            return "Welcome to Fake";
+        }
+
     }
 }
